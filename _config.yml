@@ -14,12 +14,12 @@ timezone: Europe/Madrid
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Axcruz Atelier # the main title
+title: using axcruz; # the main title
 
-tagline:  En este lugar se exponen las vivencias y los logros de uno de los padres fundadores de Parry Mechanics # it will display as the sub-title
+tagline: Casi desarrollador de videojuegos, casi informático y casi fundador de Parry Mechanics  # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
-  En este lugar se exponen las vivencias y los logros de uno de los padres fundadores de Parry Mechanics.
+  Casi desarrollador de videojuegos, casi informático y casi fundador de Parry Mechanics
 
 # Fill in the protocol & hostname for your site.
 # e.g. 'https://username.github.io', note that it does not end with a '/'.
